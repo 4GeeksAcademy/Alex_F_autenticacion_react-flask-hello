@@ -56,7 +56,7 @@ export const Login = () => {
         <form>
           <div className="container">
             <header className="head-form mt-5 text-white ">
-              <h2>Login</h2>
+              <h2>Date de alta</h2>
             </header>
             <div className="field-set mt-5">
               <div className="input-group mb-3">
@@ -132,7 +132,7 @@ export const Login = () => {
                   type="button"
                   onClick={handleLogin}
                 >
-                  Login
+                  Date de alta
                 </button>
               </div>
               <span className="text-white">
@@ -145,7 +145,7 @@ export const Login = () => {
                     color: "blue",
                   }}
                 >
-                  Sign Up
+                  Inicia sesion
                 </Link>
               </span>
             </div>

@@ -53,7 +53,7 @@ export const SignUp = () => {
         <form>
           <div className="container">
             <header className="head-form mt-5 text-white">
-              <h2>Sign Up</h2>
+              <h2>Inicia sesion</h2>
             </header>
 
             <div className="field-set mt-5">
@@ -130,7 +130,7 @@ export const SignUp = () => {
                   type="button"
                   onClick={handleSignup}
                 >
-                  Sign Up
+                  Inicia sesion
                 </button>
               </div>
 
@@ -144,7 +144,7 @@ export const SignUp = () => {
                     color: "blue",
                   }}
                 >
-                  Login
+                  Date de alta
                 </Link>
               </span>
             </div>
